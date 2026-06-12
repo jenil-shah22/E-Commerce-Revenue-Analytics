@@ -1,0 +1,16 @@
+# Dataset folders
+data/
+Predictive E-Commerce Intelligence Platform/
+
+# Virtual Environment
+ecommerce/
+
+# README for now
+README.md
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
